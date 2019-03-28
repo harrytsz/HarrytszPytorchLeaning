@@ -35,13 +35,13 @@ $\cdot$ 常用网络层API
 
 ## 自动求导
 
-$$y = a^{2} \times x + b \times x + c$$
+$y = a^{2} \times x + b \times x + c$
 
-$$\begin{Bmatrix}
+$\begin{Bmatrix}
 \frac{\partial y}{\partial a} = 2a \times x = 2ax
 \\ \frac{\partial y}{\partial b} = x
 \\ \frac{\partial y}{\partial c} = 1
-\end{Bmatrix}$$
+\end{Bmatrix}$
 
 
 ## 常用 API
